@@ -1,0 +1,5 @@
+polynoomvgl symbolisch oplossen: tot welke graad?
+
+functie interpoleren met polynoom: verandert de topologie van de nulpuntsverzameling en tot op welk punt?
+
+anders numeriek, maar dan met een grid van voldoende resolutie.
